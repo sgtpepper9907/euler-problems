@@ -1,0 +1,15 @@
+{
+    "name": "sgtpepper9907/project-euler",
+    "description": "Project Euler's problems solved in PHP",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Angulo",
+            "email": "david.angulo.arias@gmail.com"
+        }
+    ]
+}
