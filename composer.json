@@ -11,5 +11,15 @@
             "name": "David Angulo",
             "email": "david.angulo.arias@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Acme\\Problems\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Acme\\Problems\\Tests\\": "tests/"
+        }
+    }
 }
